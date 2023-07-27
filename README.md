@@ -19,15 +19,15 @@ This project is a COVID Data Analysis in Python using Jupyter Notebooks. It anal
 
 ## Instructions for Use:
 
--Make sure you have Python 3 and Jupyter Notebooks installed on your system.
+- Make sure you have Python 3 and Jupyter Notebooks installed on your system.
 
--Install the required libraries if you haven't already (e.g., pip install pandas numpy seaborn matplotlib).
+- Install the required libraries if you haven't already (e.g., pip install pandas numpy seaborn matplotlib).
 
--Download or import the COVID-19 datasets into the Jupyter Notebook.
+- Download or import the COVID-19 datasets into the Jupyter Notebook.
 
--Run the cells in the Jupyter Notebook to load, clean, and visualize the data.
+- Run the cells in the Jupyter Notebook to load, clean, and visualize the data.
 
--Observe the generated charts and graphs to gain insights into COVID-19 trends.
+- Observe the generated charts and graphs to gain insights into COVID-19 trends.
 
 ## Data Visualization and Insights:
 
